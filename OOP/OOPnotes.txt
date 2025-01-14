@@ -1,0 +1,5 @@
+To move code of line ctrl + shift + up or down
+To duplicate code downward ctrl + D
+so it is not mandatory to override the parents method in inheritance
+but it is in the case of abstract class
+https://www.youtube.com/watch?v=Q8YlYHjksLo&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&index=50
